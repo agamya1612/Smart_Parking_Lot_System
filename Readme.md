@@ -22,8 +22,3 @@ It handles **vehicle entry/exit, parking spot allocation, fee calculation, and r
 - **Concurrency Handling**  
   Uses locks to handle multiple vehicles entering/exiting simultaneously.
 
----
-
-## 🏗️ Project Structure
-
-# Smart_Parking_Lot_System
